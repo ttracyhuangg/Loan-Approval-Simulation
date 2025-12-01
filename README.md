@@ -39,7 +39,7 @@ The work is based on an interactive simulation (not my own code), but all analys
 Using the profit structure (successful loan: +\$300, default: –\$700), the break-even repayment rate is:
 
 \[
-300r - 700(1 - r) = 0 \Rightarrow r = 0.7
+300r - 700(1 - r) = 0 \ r = 0.7
 \]
 
 So the bank needs at least a **70% repayment rate** to avoid losses; the thresholds I selected in later analysis keep correctness/repayment well above this.
