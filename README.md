@@ -1,4 +1,4 @@
-# Fairness in Loan Approval Simulation
+# Fairness in Loan Approval and Credit Risk Simulation
 
 This project analyzes how different loan approval strategies impact **profitability** and **fairness** using a simulation tool inspired by Google’s *Attacking Discrimination in ML*. I play the role of a lead AI expert at the fictional “Bank of Magic City,” tasked with recommending a lending policy that is both profitable and aligned with fair lending and anti-discrimination principles.
 
